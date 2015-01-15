@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT Schema_Id="01" Schema_Version="1.0.1" SchemaDate="2002-03-20T14:00:00">
+<User Sys_Id="Sys_Id_1" Admin_Id="Admin_id_1" User_Id="TOMANP1" FirstName="Pavel" SurName="Toman" Tel="Tel_1" Fax="Fax_1" Email="Email_1" BirthDate="1956-10-13T00:00:00" EntryDate="2004-11-28T00:00:00" No64="880808/0025" TitlePrefix="Dipl. Ing." TitleSuffix="PhD." Language="CZ" CountryISO2="" UserType="" Manufacture="">
+<Mandant Organization_Id="SKODA_AUTO" OrganizationName="Škoda Auto a.s." BID="" NEWADA="" Department=""/>
+<Mandant Organization_Id="SKOFIN" OrganizationName="ŠkoFIN" BID="" NEWADA="" Department=""/>
+<Mandant Organization_Id="IVG" OrganizationName="IVG" BID="401" NEWADA="23230" Department=""/>
+<Roles>
+<Role RoleName="RoleName_1"></Role>
+<Role RoleName="RoleName_2"></Role>
+</Roles>
+<Organization Organization_Id="1" OrganizationName="OrganizationName_1" BID="123" NEWADA="22222" Department="Department_1"/>
+<Action Action_Id="0"/>
+<State State_Id="1"/>
+</User>
+</ROOT>
